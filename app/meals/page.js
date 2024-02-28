@@ -1,7 +1,7 @@
 export default function MealPage() {
   return (
-    <div>
+    <>
       <h1>Meals Page</h1>
-    </div>
+    </>
   )
 }
